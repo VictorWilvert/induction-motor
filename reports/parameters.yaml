@@ -1,14 +1,14 @@
-defined_parameters:
-  Jr: 0.032
-  P: 4
-  Vs: 326.598632
-  we: 314.159265
 estimated_parameters:
   Br: 0.006413
   Ir: 12.609884
+  Lm: 0.078783
+  Lr: 0.003391
   Ls: 0.004761
   Rm: 548.537457
   Rr: 0.487447
   Rs: 0.460105
-  Xm: 24.7504
-  Xr: 1.065424
+provided_parameters:
+  Jr: 0.032
+  P: 4
+  Vs: 230.940108
+  we: 314.159265
